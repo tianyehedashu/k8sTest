@@ -1,0 +1,13 @@
+LVS
+http://blog.51cto.com/limian/1301776 keepalive
+https://jimmysong.io/kubernetes-handbook/practice/edge-node-configuration.html kuber edge node config
+
+https://www.cnblogs.com/liwei0526vip/p/6370103.html  LVS实现
+https://www.cnblogs.com/gispathfinder/p/5871043.html docker network model
+
+http://dockone.io/article/2941 docker 核心技术与原理
+ keepalive server HA https://www.cnblogs.com/clsn/p/8052649.html
+
+
+ https://blog.csdn.net/qq_34463875/article/details/72730489
+使用IPVS实现Kubernetes入口流量负载均衡

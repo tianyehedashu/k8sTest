@@ -1,0 +1,33 @@
+https://kubernetes.feisky.xyz/en/
+
+10.210.123.80
+root
+!QAZ2wsx
+
+Cluster information: 
+  Master: 10.210.123.80
+  Node: 10.210.123.81-84
+
+
+  https://github.com/jenkinsci/kubernetes-plugin
+https://github.com/fabric8io/fabric8-pipeline-library
+https://blog.csdn.net/hxpjava1/article/details/79737346  fabric8 introduce
+
+
+
+CEC
+Fabric8 url:
+  http://fabric8.fabric8.rhessi.rnd.gic.ericsson.se 
+  http://nexus.fabric8.rhessi.rnd.gic.ericsson.se
+  http://gogs.fabric8.rhessi.rnd.gic.ericsson.se 
+
+
+  kubectl.exe exec   nginx-ingress-controller-59c6f88d59-7c8lg -ti bash  -n ingress-nginx
+ annotations:
+    nginx.org/websocket-services: cec,cecdb
+    
+    
+    
+        
+https://github.com/nginxinc/kubernetes-ingress/tree/master/examples/websocket
+https://www.nginx.com/blog/websocket-nginx/
